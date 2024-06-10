@@ -1,0 +1,98 @@
+<tables>
+    <dealer><!--Data for table: dealer. And ID = ALL-->
+        <info data="dealer_table_info">
+            <tablename>dealer</tablename>
+            <tablecols>
+                <column>dealer_id - integer</column>
+                <column>release_date - date</column>
+                <column>street_name - character varying</column>
+            </tablecols>
+            <num_of_rows>10</num_of_rows>
+        </info>
+        <table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+            <row>
+                <dealer_id>1</dealer_id>
+                <street_name>El Chapo</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>2</dealer_id>
+                <street_name>Pablo Escobar</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>3</dealer_id>
+                <street_name>Griselda Blanco</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>4</dealer_id>
+                <street_name>Freeway Ricky Ross</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>5</dealer_id>
+                <street_name>Frank Lucas</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>6</dealer_id>
+                <street_name>George Jung Beach</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>7</dealer_id>
+                <street_name>Carlos Lehder</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>8</dealer_id>
+                <street_name>Felix Mitchell</street_name>
+                <release_date xsi:nil="true"/>
+            </row>
+
+            <row>
+                <dealer_id>9</dealer_id>
+                <street_name>Nicky Barnes</street_name>
+                <release_date>2025-05-10</release_date>
+            </row>
+
+            <row>
+                <dealer_id>10</dealer_id>
+                <street_name>Miguel Angel</street_name>
+                <release_date>2025-05-10</release_date>
+            </row>
+
+        </table>
+    </dealer>
+    <teritorium><!--Data for table: teritorium. And ID = 1-->
+        <info data="teritorium_table_info">
+            <tablename>teritorium</tablename>
+            <tablecols>
+                <column>teritorium_id - integer</column>
+                <column>dealer_id - integer</column>
+                <column>city - character varying</column>
+                <column>district - character varying</column>
+            </tablecols>
+            <num_of_rows>67</num_of_rows>
+        </info>
+        <table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+            <row>
+                <teritorium_id>1</teritorium_id>
+                <dealer_id>1</dealer_id>
+                <city>Culiacán</city>
+                <district>Centro</district>
+            </row>
+
+        </table>
+    </teritorium>
+</tables>

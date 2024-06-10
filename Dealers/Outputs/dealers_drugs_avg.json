@@ -1,0 +1,902 @@
+[
+  {
+    "street_name": "El Chapo",
+    "name": "LSD",
+    "am_bought": 435,
+    "am_payed": 1305,
+    "am_sold": 435,
+    "am_gained": 1426,
+    "debt": 0,
+    "profit": 121
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Heroin",
+    "am_bought": 817,
+    "am_payed": 6536,
+    "am_sold": 817,
+    "am_gained": 6002,
+    "debt": 0,
+    "profit": -534
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 400,
+    "am_payed": 800,
+    "am_sold": 400,
+    "am_gained": 1077,
+    "debt": 0,
+    "profit": 277
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "LSD",
+    "am_bought": 1066,
+    "am_payed": 3198,
+    "am_sold": 1066,
+    "am_gained": 3803,
+    "debt": 0,
+    "profit": 605
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 1323,
+    "am_payed": 7938,
+    "am_sold": 1323,
+    "am_gained": 8174,
+    "debt": 0,
+    "profit": 236
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 1016,
+    "am_payed": 6096,
+    "am_sold": 778,
+    "am_gained": 5290,
+    "debt": 238,
+    "profit": -806
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Heroin",
+    "am_bought": 767,
+    "am_payed": 6136,
+    "am_sold": 767,
+    "am_gained": 7205,
+    "debt": 0,
+    "profit": 1069
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 1038,
+    "am_payed": 6228,
+    "am_sold": 1038,
+    "am_gained": 7888,
+    "debt": 0,
+    "profit": 1660
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Cocaine",
+    "am_bought": 1218,
+    "am_payed": 12180,
+    "am_sold": 1218,
+    "am_gained": 11839,
+    "debt": 0,
+    "profit": -341
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Ketamine",
+    "am_bought": 1202,
+    "am_payed": 4808,
+    "am_sold": 1202,
+    "am_gained": 5418,
+    "debt": 0,
+    "profit": 610
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Methamphetamine",
+    "am_bought": 598,
+    "am_payed": 4186,
+    "am_sold": 598,
+    "am_gained": 5105,
+    "debt": 0,
+    "profit": 919
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Crack Cocaine",
+    "am_bought": 833,
+    "am_payed": 9996,
+    "am_sold": 833,
+    "am_gained": 9699,
+    "debt": 0,
+    "profit": -297
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "LSD",
+    "am_bought": 603,
+    "am_payed": 1809,
+    "am_sold": 603,
+    "am_gained": 1492,
+    "debt": 0,
+    "profit": -317
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 634,
+    "am_payed": 9510,
+    "am_sold": 634,
+    "am_gained": 9161,
+    "debt": 0,
+    "profit": -349
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "LSD",
+    "am_bought": 517,
+    "am_payed": 1551,
+    "am_sold": 399,
+    "am_gained": 1381,
+    "debt": 118,
+    "profit": -170
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 768,
+    "am_payed": 1536,
+    "am_sold": 768,
+    "am_gained": 1336,
+    "debt": 0,
+    "profit": -200
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Cocaine",
+    "am_bought": 386,
+    "am_payed": 3860,
+    "am_sold": 386,
+    "am_gained": 4333,
+    "debt": 0,
+    "profit": 473
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 271,
+    "am_payed": 542,
+    "am_sold": 271,
+    "am_gained": 516,
+    "debt": 0,
+    "profit": -26
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Heroin",
+    "am_bought": 709,
+    "am_payed": 5672,
+    "am_sold": 709,
+    "am_gained": 5786,
+    "debt": 0,
+    "profit": 114
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Crack Cocaine",
+    "am_bought": 1436,
+    "am_payed": 17232,
+    "am_sold": 1436,
+    "am_gained": 18931,
+    "debt": 0,
+    "profit": 1699
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 1148,
+    "am_payed": 17220,
+    "am_sold": 1148,
+    "am_gained": 20660,
+    "debt": 0,
+    "profit": 3440
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 453,
+    "am_payed": 2718,
+    "am_sold": 453,
+    "am_gained": 3288,
+    "debt": 0,
+    "profit": 570
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 1078,
+    "am_payed": 6468,
+    "am_sold": 1078,
+    "am_gained": 6353,
+    "debt": 0,
+    "profit": -115
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 821,
+    "am_payed": 4926,
+    "am_sold": 821,
+    "am_gained": 5901,
+    "debt": 0,
+    "profit": 975
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Methamphetamine",
+    "am_bought": 971,
+    "am_payed": 6797,
+    "am_sold": 971,
+    "am_gained": 5859,
+    "debt": 0,
+    "profit": -938
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Heroin",
+    "am_bought": 648,
+    "am_payed": 5184,
+    "am_sold": 648,
+    "am_gained": 5988,
+    "debt": 0,
+    "profit": 804
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Heroin",
+    "am_bought": 1068,
+    "am_payed": 8544,
+    "am_sold": 1068,
+    "am_gained": 9322,
+    "debt": 0,
+    "profit": 778
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Crack Cocaine",
+    "am_bought": 981,
+    "am_payed": 11772,
+    "am_sold": 981,
+    "am_gained": 10234,
+    "debt": 0,
+    "profit": -1538
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Ketamine",
+    "am_bought": 973,
+    "am_payed": 3892,
+    "am_sold": 973,
+    "am_gained": 4227,
+    "debt": 0,
+    "profit": 335
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Cocaine",
+    "am_bought": 1171,
+    "am_payed": 11710,
+    "am_sold": 1171,
+    "am_gained": 15558,
+    "debt": 0,
+    "profit": 3848
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Cocaine",
+    "am_bought": 497,
+    "am_payed": 4970,
+    "am_sold": 497,
+    "am_gained": 5691,
+    "debt": 0,
+    "profit": 721
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Ketamine",
+    "am_bought": 651,
+    "am_payed": 2604,
+    "am_sold": 651,
+    "am_gained": 2755,
+    "debt": 0,
+    "profit": 151
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Crack Cocaine",
+    "am_bought": 424,
+    "am_payed": 5088,
+    "am_sold": 424,
+    "am_gained": 4879,
+    "debt": 0,
+    "profit": -209
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Heroin",
+    "am_bought": 921,
+    "am_payed": 7368,
+    "am_sold": 921,
+    "am_gained": 9097,
+    "debt": 0,
+    "profit": 1729
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Crack Cocaine",
+    "am_bought": 703,
+    "am_payed": 8436,
+    "am_sold": 703,
+    "am_gained": 6839,
+    "debt": 0,
+    "profit": -1597
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 640,
+    "am_payed": 9600,
+    "am_sold": 640,
+    "am_gained": 11158,
+    "debt": 0,
+    "profit": 1558
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Crack Cocaine",
+    "am_bought": 1394,
+    "am_payed": 16728,
+    "am_sold": 1394,
+    "am_gained": 18247,
+    "debt": 0,
+    "profit": 1519
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 933,
+    "am_payed": 13995,
+    "am_sold": 933,
+    "am_gained": 14965,
+    "debt": 0,
+    "profit": 970
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "LSD",
+    "am_bought": 282,
+    "am_payed": 846,
+    "am_sold": 282,
+    "am_gained": 854,
+    "debt": 0,
+    "profit": 8
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 663,
+    "am_payed": 1326,
+    "am_sold": 663,
+    "am_gained": 1548,
+    "debt": 0,
+    "profit": 222
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 954,
+    "am_payed": 1908,
+    "am_sold": 954,
+    "am_gained": 1928,
+    "debt": 0,
+    "profit": 20
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 418,
+    "am_payed": 6270,
+    "am_sold": 418,
+    "am_gained": 5743,
+    "debt": 0,
+    "profit": -527
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Methamphetamine",
+    "am_bought": 700,
+    "am_payed": 4900,
+    "am_sold": 700,
+    "am_gained": 4980,
+    "debt": 0,
+    "profit": 80
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 853,
+    "am_payed": 1706,
+    "am_sold": 853,
+    "am_gained": 1840,
+    "debt": 0,
+    "profit": 134
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Marijuana",
+    "am_bought": 517,
+    "am_payed": 2585,
+    "am_sold": 517,
+    "am_gained": 2230,
+    "debt": 0,
+    "profit": -355
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Ketamine",
+    "am_bought": 1027,
+    "am_payed": 4108,
+    "am_sold": 1027,
+    "am_gained": 4098,
+    "debt": 0,
+    "profit": -10
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Crack Cocaine",
+    "am_bought": 665,
+    "am_payed": 7980,
+    "am_sold": 665,
+    "am_gained": 8209,
+    "debt": 0,
+    "profit": 229
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Ketamine",
+    "am_bought": 1320,
+    "am_payed": 5280,
+    "am_sold": 1320,
+    "am_gained": 6237,
+    "debt": 0,
+    "profit": 957
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "LSD",
+    "am_bought": 944,
+    "am_payed": 2832,
+    "am_sold": 944,
+    "am_gained": 2842,
+    "debt": 0,
+    "profit": 10
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Marijuana",
+    "am_bought": 1242,
+    "am_payed": 6210,
+    "am_sold": 1242,
+    "am_gained": 6014,
+    "debt": 0,
+    "profit": -196
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 645,
+    "am_payed": 9675,
+    "am_sold": 645,
+    "am_gained": 8479,
+    "debt": 0,
+    "profit": -1196
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Ketamine",
+    "am_bought": 775,
+    "am_payed": 3100,
+    "am_sold": 741,
+    "am_gained": 3763,
+    "debt": 34,
+    "profit": 663
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Ketamine",
+    "am_bought": 772,
+    "am_payed": 3088,
+    "am_sold": 772,
+    "am_gained": 2840,
+    "debt": 0,
+    "profit": -248
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Crack Cocaine",
+    "am_bought": 690,
+    "am_payed": 8280,
+    "am_sold": 690,
+    "am_gained": 8494,
+    "debt": 0,
+    "profit": 214
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Ketamine",
+    "am_bought": 410,
+    "am_payed": 1640,
+    "am_sold": 383,
+    "am_gained": 1492,
+    "debt": 27,
+    "profit": -148
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Marijuana",
+    "am_bought": 919,
+    "am_payed": 4595,
+    "am_sold": 919,
+    "am_gained": 4600,
+    "debt": 0,
+    "profit": 5
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 245,
+    "am_payed": 3675,
+    "am_sold": 245,
+    "am_gained": 3842,
+    "debt": 0,
+    "profit": 167
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Marijuana",
+    "am_bought": 1503,
+    "am_payed": 7515,
+    "am_sold": 1503,
+    "am_gained": 8822,
+    "debt": 0,
+    "profit": 1307
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Ketamine",
+    "am_bought": 727,
+    "am_payed": 2908,
+    "am_sold": 727,
+    "am_gained": 3257,
+    "debt": 0,
+    "profit": 349
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Heroin",
+    "am_bought": 1151,
+    "am_payed": 9208,
+    "am_sold": 1151,
+    "am_gained": 9332,
+    "debt": 0,
+    "profit": 124
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Marijuana",
+    "am_bought": 683,
+    "am_payed": 3415,
+    "am_sold": 683,
+    "am_gained": 3765,
+    "debt": 0,
+    "profit": 350
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Marijuana",
+    "am_bought": 339,
+    "am_payed": 1695,
+    "am_sold": 339,
+    "am_gained": 1774,
+    "debt": 0,
+    "profit": 79
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Marijuana",
+    "am_bought": 1462,
+    "am_payed": 7310,
+    "am_sold": 1462,
+    "am_gained": 8206,
+    "debt": 0,
+    "profit": 896
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Marijuana",
+    "am_bought": 1034,
+    "am_payed": 5170,
+    "am_sold": 1034,
+    "am_gained": 5508,
+    "debt": 0,
+    "profit": 338
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Cocaine",
+    "am_bought": 875,
+    "am_payed": 8750,
+    "am_sold": 875,
+    "am_gained": 6999,
+    "debt": 0,
+    "profit": -1751
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Marijuana",
+    "am_bought": 838,
+    "am_payed": 4190,
+    "am_sold": 838,
+    "am_gained": 4665,
+    "debt": 0,
+    "profit": 475
+  },
+  {
+    "street_name": "El Chapo",
+    "name": "Methamphetamine",
+    "am_bought": 526,
+    "am_payed": 3682,
+    "am_sold": 526,
+    "am_gained": 4247,
+    "debt": 0,
+    "profit": 565
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 410,
+    "am_payed": 6150,
+    "am_sold": 410,
+    "am_gained": 7564,
+    "debt": 0,
+    "profit": 1414
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Cocaine",
+    "am_bought": 455,
+    "am_payed": 4550,
+    "am_sold": 455,
+    "am_gained": 5871,
+    "debt": 0,
+    "profit": 1321
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 1330,
+    "am_payed": 2660,
+    "am_sold": 1330,
+    "am_gained": 2471,
+    "debt": 0,
+    "profit": -189
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Heroin",
+    "am_bought": 660,
+    "am_payed": 5280,
+    "am_sold": 660,
+    "am_gained": 5285,
+    "debt": 0,
+    "profit": 5
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "Methamphetamine",
+    "am_bought": 946,
+    "am_payed": 6622,
+    "am_sold": 946,
+    "am_gained": 6949,
+    "debt": 0,
+    "profit": 327
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 1061,
+    "am_payed": 6366,
+    "am_sold": 1061,
+    "am_gained": 7134,
+    "debt": 0,
+    "profit": 768
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Methamphetamine",
+    "am_bought": 373,
+    "am_payed": 2611,
+    "am_sold": 373,
+    "am_gained": 3084,
+    "debt": 0,
+    "profit": 473
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Cocaine",
+    "am_bought": 733,
+    "am_payed": 7330,
+    "am_sold": 733,
+    "am_gained": 7387,
+    "debt": 0,
+    "profit": 57
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "LSD",
+    "am_bought": 376,
+    "am_payed": 1128,
+    "am_sold": 376,
+    "am_gained": 1341,
+    "debt": 0,
+    "profit": 213
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "name": "Heroin",
+    "am_bought": 310,
+    "am_payed": 2480,
+    "am_sold": 310,
+    "am_gained": 3085,
+    "debt": 0,
+    "profit": 605
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 801,
+    "am_payed": 4806,
+    "am_sold": 801,
+    "am_gained": 5678,
+    "debt": 0,
+    "profit": 872
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "LSD",
+    "am_bought": 475,
+    "am_payed": 1425,
+    "am_sold": 475,
+    "am_gained": 1637,
+    "debt": 0,
+    "profit": 212
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "Methamphetamine",
+    "am_bought": 572,
+    "am_payed": 4004,
+    "am_sold": 572,
+    "am_gained": 4571,
+    "debt": 0,
+    "profit": 567
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 122,
+    "am_payed": 244,
+    "am_sold": 122,
+    "am_gained": 176,
+    "debt": 0,
+    "profit": -68
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Cocaine",
+    "am_bought": 1350,
+    "am_payed": 13500,
+    "am_sold": 1350,
+    "am_gained": 14483,
+    "debt": 0,
+    "profit": 983
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "name": "MDMA (Ecstasy)",
+    "am_bought": 322,
+    "am_payed": 644,
+    "am_sold": 209,
+    "am_gained": 569,
+    "debt": 113,
+    "profit": -75
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "PCP (Angel Dust)",
+    "am_bought": 647,
+    "am_payed": 3882,
+    "am_sold": 647,
+    "am_gained": 4573,
+    "debt": 0,
+    "profit": 691
+  },
+  {
+    "street_name": "Carlos Lehder",
+    "name": "Crack Cocaine",
+    "am_bought": 987,
+    "am_payed": 11844,
+    "am_sold": 987,
+    "am_gained": 13505,
+    "debt": 0,
+    "profit": 1661
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "LSD",
+    "am_bought": 842,
+    "am_payed": 2526,
+    "am_sold": 842,
+    "am_gained": 2086,
+    "debt": 0,
+    "profit": -440
+  },
+  {
+    "street_name": "George Jung Beach",
+    "name": "Methamphetamine",
+    "am_bought": 740,
+    "am_payed": 5180,
+    "am_sold": 740,
+    "am_gained": 6558,
+    "debt": 0,
+    "profit": 1378
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "name": "Cocaine",
+    "am_bought": 819,
+    "am_payed": 8190,
+    "am_sold": 819,
+    "am_gained": 7981,
+    "debt": 0,
+    "profit": -209
+  },
+  {
+    "street_name": "Frank Lucas",
+    "name": "Methamphetamine",
+    "am_bought": 1208,
+    "am_payed": 8456,
+    "am_sold": 1208,
+    "am_gained": 9209,
+    "debt": 0,
+    "profit": 753
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "name": "Psilocybin Mushrooms",
+    "am_bought": 1055,
+    "am_payed": 15825,
+    "am_sold": 1055,
+    "am_gained": 17874,
+    "debt": 0,
+    "profit": 2049
+  }
+]

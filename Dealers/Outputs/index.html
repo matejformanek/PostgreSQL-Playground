@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dealers Comparison</title>
+    <!-- Load Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<div id="bar-chart"></div>
+<hr>
+<div id="charts"></div>
+<script>
+    fetch('dealers.json') // Fetch data from JSON file
+      .then(response => response.json()) // Parse JSON response
+      .then(data => {
+        // Data loaded successfully
+        // Extracting dealer names and profits
+        var dealerNames = data.dealers.map(function(dealer) {
+          return dealer.street_name;
+        });
+        var dealerProfits = data.dealers.map(function(dealer) {
+          return dealer.profit;
+        });
+
+        // Create a bar chart
+        var trace = {
+          x: dealerNames,
+          y: dealerProfits,
+          type: 'bar'
+        };
+
+        var layout = {
+          title: 'Dealer Profits Comparison',
+          xaxis: {
+            title: 'Dealers'
+          },
+          yaxis: {
+            title: 'Profit'
+          }
+        };
+
+        Plotly.newPlot('bar-chart', [trace], layout);
+      })
+      .catch(error => {
+        // Handle error if data loading fails
+        console.error('Error loading data:', error);
+      });
+
+    fetch('dealers.json') // Fetch data from JSON file
+  .then(response => response.json()) // Parse JSON response
+  .then(data => {
+    // Data loaded successfully
+    if (typeof data !== 'object' || data === null) {
+      console.error('Data is not in the expected format.');
+      return;
+    }
+
+    // Extract values from the object
+    var dataArray = Object.values(data);
+
+    // Group data by drug name
+    var groupedData = {};
+    dataArray[0].forEach(d => {
+        if(d.data !== null){
+           d.data.forEach(dealer => {
+              var drugName = dealer.drug_name;
+              if (!(drugName in groupedData)) {
+                groupedData[drugName] = [];
+              }
+              groupedData[drugName].push({
+                name: d.street_name,
+                profit: dealer.profit
+               });
+          });
+        }
+    });
+    console.log(groupedData)
+
+    // Create a bar chart for each drug
+    Object.keys(groupedData).forEach(drugName => {
+      var dealers = groupedData[drugName];
+      var dealerNames = dealers.map(dealer => dealer.name);
+      var dealerProfits = dealers.map(dealer => dealer.profit);
+
+      // Create a div element for the chart
+      var chartDiv = document.createElement('div');
+      chartDiv.id = 'chart-' + drugName;
+      document.getElementById('charts').appendChild(chartDiv);
+      document.getElementById('charts').appendChild(document.createElement('hr'));
+
+      // Create a bar chart
+      var trace = {
+        x: dealerNames,
+        y: dealerProfits,
+        type: 'bar'
+      };
+
+      var layout = {
+        title: `Dealer Profits Comparison for ${drugName}`,
+        xaxis: {
+          title: 'Dealers'
+        },
+        yaxis: {
+          title: 'Profit'
+        }
+      };
+
+      Plotly.newPlot('chart-' + drugName, [trace], layout);
+    });
+  })
+  .catch(error => {
+    // Handle error if data loading fails
+    console.error('Error loading data:', error);
+  });
+</script>
+</body>
+</html>

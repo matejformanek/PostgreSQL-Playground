@@ -1,0 +1,923 @@
+{
+  "dealers": [
+    {
+      "street_name": "Carlos Lehder",
+      "amount_bought": "10377",
+      "amount_payed": "74148",
+      "amount_sold": "10377",
+      "amount_gained": "81066",
+      "debt": "0",
+      "profit": "6918",
+      "data": [
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "1323",
+          "amount_payed": "7938",
+          "amount_sold": "1323",
+          "amount_gained": "8174",
+          "debt": "0",
+          "profit": "236"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "1148",
+          "amount_payed": "17220",
+          "amount_sold": "1148",
+          "amount_gained": "20660",
+          "debt": "0",
+          "profit": "3440"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "700",
+          "amount_payed": "4900",
+          "amount_sold": "700",
+          "amount_gained": "4980",
+          "debt": "0",
+          "profit": "80"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "1027",
+          "amount_payed": "4108",
+          "amount_sold": "1027",
+          "amount_gained": "4098",
+          "debt": "0",
+          "profit": "-10"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "1503",
+          "amount_payed": "7515",
+          "amount_sold": "1503",
+          "amount_gained": "8822",
+          "debt": "0",
+          "profit": "1307"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "1151",
+          "amount_payed": "9208",
+          "amount_sold": "1151",
+          "amount_gained": "9332",
+          "debt": "0",
+          "profit": "124"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "1330",
+          "amount_payed": "2660",
+          "amount_sold": "1330",
+          "amount_gained": "2471",
+          "debt": "0",
+          "profit": "-189"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "733",
+          "amount_payed": "7330",
+          "amount_sold": "733",
+          "amount_gained": "7387",
+          "debt": "0",
+          "profit": "57"
+        },
+        {
+          "drug_name": "LSD",
+          "amount_bought": "475",
+          "amount_payed": "1425",
+          "amount_sold": "475",
+          "amount_gained": "1637",
+          "debt": "0",
+          "profit": "212"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "987",
+          "amount_payed": "11844",
+          "amount_sold": "987",
+          "amount_gained": "13505",
+          "debt": "0",
+          "profit": "1661"
+        }
+      ]
+    },
+    {
+      "street_name": "El Chapo",
+      "amount_bought": "7607",
+      "amount_payed": "56277",
+      "amount_sold": "7607",
+      "amount_gained": "60474",
+      "debt": "0",
+      "profit": "4197",
+      "data": [
+        {
+          "drug_name": "LSD",
+          "amount_bought": "435",
+          "amount_payed": "1305",
+          "amount_sold": "435",
+          "amount_gained": "1426",
+          "debt": "0",
+          "profit": "121"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "817",
+          "amount_payed": "6536",
+          "amount_sold": "817",
+          "amount_gained": "6002",
+          "debt": "0",
+          "profit": "-534"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "400",
+          "amount_payed": "800",
+          "amount_sold": "400",
+          "amount_gained": "1077",
+          "debt": "0",
+          "profit": "277"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "1038",
+          "amount_payed": "6228",
+          "amount_sold": "1038",
+          "amount_gained": "7888",
+          "debt": "0",
+          "profit": "1660"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "833",
+          "amount_payed": "9996",
+          "amount_sold": "833",
+          "amount_gained": "9699",
+          "debt": "0",
+          "profit": "-297"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "386",
+          "amount_payed": "3860",
+          "amount_sold": "386",
+          "amount_gained": "4333",
+          "debt": "0",
+          "profit": "473"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "933",
+          "amount_payed": "13995",
+          "amount_sold": "933",
+          "amount_gained": "14965",
+          "debt": "0",
+          "profit": "970"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "1320",
+          "amount_payed": "5280",
+          "amount_sold": "1320",
+          "amount_gained": "6237",
+          "debt": "0",
+          "profit": "957"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "919",
+          "amount_payed": "4595",
+          "amount_sold": "919",
+          "amount_gained": "4600",
+          "debt": "0",
+          "profit": "5"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "526",
+          "amount_payed": "3682",
+          "amount_sold": "526",
+          "amount_gained": "4247",
+          "debt": "0",
+          "profit": "565"
+        }
+      ]
+    },
+    {
+      "street_name": "Felix Mitchell",
+      "amount_bought": "6195",
+      "amount_payed": "45325",
+      "amount_sold": "6050",
+      "amount_gained": "44793",
+      "debt": "145",
+      "profit": "-532",
+      "data": [
+        {
+          "drug_name": "LSD",
+          "amount_bought": "517",
+          "amount_payed": "1551",
+          "amount_sold": "399",
+          "amount_gained": "1381",
+          "debt": "118",
+          "profit": "-170"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "648",
+          "amount_payed": "5184",
+          "amount_sold": "648",
+          "amount_gained": "5988",
+          "debt": "0",
+          "profit": "804"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "424",
+          "amount_payed": "5088",
+          "amount_sold": "424",
+          "amount_gained": "4879",
+          "debt": "0",
+          "profit": "-209"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "418",
+          "amount_payed": "6270",
+          "amount_sold": "418",
+          "amount_gained": "5743",
+          "debt": "0",
+          "profit": "-527"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "410",
+          "amount_payed": "1640",
+          "amount_sold": "383",
+          "amount_gained": "1492",
+          "debt": "27",
+          "profit": "-148"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "1034",
+          "amount_payed": "5170",
+          "amount_sold": "1034",
+          "amount_gained": "5508",
+          "debt": "0",
+          "profit": "338"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "875",
+          "amount_payed": "8750",
+          "amount_sold": "875",
+          "amount_gained": "6999",
+          "debt": "0",
+          "profit": "-1751"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "946",
+          "amount_payed": "6622",
+          "amount_sold": "946",
+          "amount_gained": "6949",
+          "debt": "0",
+          "profit": "327"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "801",
+          "amount_payed": "4806",
+          "amount_sold": "801",
+          "amount_gained": "5678",
+          "debt": "0",
+          "profit": "872"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "122",
+          "amount_payed": "244",
+          "amount_sold": "122",
+          "amount_gained": "176",
+          "debt": "0",
+          "profit": "-68"
+        }
+      ]
+    },
+    {
+      "street_name": "Frank Lucas",
+      "amount_bought": "9068",
+      "amount_payed": "64740",
+      "amount_sold": "9068",
+      "amount_gained": "68731",
+      "debt": "0",
+      "profit": "3991",
+      "data": [
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "1394",
+          "amount_payed": "16728",
+          "amount_sold": "1394",
+          "amount_gained": "18247",
+          "debt": "0",
+          "profit": "1519"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "853",
+          "amount_payed": "1706",
+          "amount_sold": "853",
+          "amount_gained": "1840",
+          "debt": "0",
+          "profit": "134"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "772",
+          "amount_payed": "3088",
+          "amount_sold": "772",
+          "amount_gained": "2840",
+          "debt": "0",
+          "profit": "-248"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "245",
+          "amount_payed": "3675",
+          "amount_sold": "245",
+          "amount_gained": "3842",
+          "debt": "0",
+          "profit": "167"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "683",
+          "amount_payed": "3415",
+          "amount_sold": "683",
+          "amount_gained": "3765",
+          "debt": "0",
+          "profit": "350"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "660",
+          "amount_payed": "5280",
+          "amount_sold": "660",
+          "amount_gained": "5285",
+          "debt": "0",
+          "profit": "5"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "1061",
+          "amount_payed": "6366",
+          "amount_sold": "1061",
+          "amount_gained": "7134",
+          "debt": "0",
+          "profit": "768"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "1350",
+          "amount_payed": "13500",
+          "amount_sold": "1350",
+          "amount_gained": "14483",
+          "debt": "0",
+          "profit": "983"
+        },
+        {
+          "drug_name": "LSD",
+          "amount_bought": "842",
+          "amount_payed": "2526",
+          "amount_sold": "842",
+          "amount_gained": "2086",
+          "debt": "0",
+          "profit": "-440"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "1208",
+          "amount_payed": "8456",
+          "amount_sold": "1208",
+          "amount_gained": "9209",
+          "debt": "0",
+          "profit": "753"
+        }
+      ]
+    },
+    {
+      "street_name": "Freeway Ricky Ross",
+      "amount_bought": "8930",
+      "amount_payed": "66534",
+      "amount_sold": "8930",
+      "amount_gained": "74329",
+      "debt": "0",
+      "profit": "7795",
+      "data": [
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "971",
+          "amount_payed": "6797",
+          "amount_sold": "971",
+          "amount_gained": "5859",
+          "debt": "0",
+          "profit": "-938"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "1171",
+          "amount_payed": "11710",
+          "amount_sold": "1171",
+          "amount_gained": "15558",
+          "debt": "0",
+          "profit": "3848"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "651",
+          "amount_payed": "2604",
+          "amount_sold": "651",
+          "amount_gained": "2755",
+          "debt": "0",
+          "profit": "151"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "921",
+          "amount_payed": "7368",
+          "amount_sold": "921",
+          "amount_gained": "9097",
+          "debt": "0",
+          "profit": "1729"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "663",
+          "amount_payed": "1326",
+          "amount_sold": "663",
+          "amount_gained": "1548",
+          "debt": "0",
+          "profit": "222"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "665",
+          "amount_payed": "7980",
+          "amount_sold": "665",
+          "amount_gained": "8209",
+          "debt": "0",
+          "profit": "229"
+        },
+        {
+          "drug_name": "LSD",
+          "amount_bought": "944",
+          "amount_payed": "2832",
+          "amount_sold": "944",
+          "amount_gained": "2842",
+          "debt": "0",
+          "profit": "10"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "1242",
+          "amount_payed": "6210",
+          "amount_sold": "1242",
+          "amount_gained": "6014",
+          "debt": "0",
+          "profit": "-196"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "647",
+          "amount_payed": "3882",
+          "amount_sold": "647",
+          "amount_gained": "4573",
+          "debt": "0",
+          "profit": "691"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "1055",
+          "amount_payed": "15825",
+          "amount_sold": "1055",
+          "amount_gained": "17874",
+          "debt": "0",
+          "profit": "2049"
+        }
+      ]
+    },
+    {
+      "street_name": "George Jung Beach",
+      "amount_bought": "7648",
+      "amount_payed": "55884",
+      "amount_sold": "7614",
+      "amount_gained": "58278",
+      "debt": "34",
+      "profit": "2394",
+      "data": [
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "1218",
+          "amount_payed": "12180",
+          "amount_sold": "1218",
+          "amount_gained": "11839",
+          "debt": "0",
+          "profit": "-341"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "271",
+          "amount_payed": "542",
+          "amount_sold": "271",
+          "amount_gained": "516",
+          "debt": "0",
+          "profit": "-26"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "709",
+          "amount_payed": "5672",
+          "amount_sold": "709",
+          "amount_gained": "5786",
+          "debt": "0",
+          "profit": "114"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "1078",
+          "amount_payed": "6468",
+          "amount_sold": "1078",
+          "amount_gained": "6353",
+          "debt": "0",
+          "profit": "-115"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "703",
+          "amount_payed": "8436",
+          "amount_sold": "703",
+          "amount_gained": "6839",
+          "debt": "0",
+          "profit": "-1597"
+        },
+        {
+          "drug_name": "LSD",
+          "amount_bought": "282",
+          "amount_payed": "846",
+          "amount_sold": "282",
+          "amount_gained": "854",
+          "debt": "0",
+          "profit": "8"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "775",
+          "amount_payed": "3100",
+          "amount_sold": "741",
+          "amount_gained": "3763",
+          "debt": "34",
+          "profit": "663"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "1462",
+          "amount_payed": "7310",
+          "amount_sold": "1462",
+          "amount_gained": "8206",
+          "debt": "0",
+          "profit": "896"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "410",
+          "amount_payed": "6150",
+          "amount_sold": "410",
+          "amount_gained": "7564",
+          "debt": "0",
+          "profit": "1414"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "740",
+          "amount_payed": "5180",
+          "amount_sold": "740",
+          "amount_gained": "6558",
+          "debt": "0",
+          "profit": "1378"
+        }
+      ]
+    },
+    {
+      "street_name": "Griselda Blanco",
+      "amount_bought": "7862",
+      "amount_payed": "58458",
+      "amount_sold": "7511",
+      "amount_gained": "61731",
+      "debt": "351",
+      "profit": "3273",
+      "data": [
+        {
+          "drug_name": "LSD",
+          "amount_bought": "1066",
+          "amount_payed": "3198",
+          "amount_sold": "1066",
+          "amount_gained": "3803",
+          "debt": "0",
+          "profit": "605"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "1016",
+          "amount_payed": "6096",
+          "amount_sold": "778",
+          "amount_gained": "5290",
+          "debt": "238",
+          "profit": "-806"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "767",
+          "amount_payed": "6136",
+          "amount_sold": "767",
+          "amount_gained": "7205",
+          "debt": "0",
+          "profit": "1069"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "1202",
+          "amount_payed": "4808",
+          "amount_sold": "1202",
+          "amount_gained": "5418",
+          "debt": "0",
+          "profit": "610"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "1436",
+          "amount_payed": "17232",
+          "amount_sold": "1436",
+          "amount_gained": "18931",
+          "debt": "0",
+          "profit": "1699"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "497",
+          "amount_payed": "4970",
+          "amount_sold": "497",
+          "amount_gained": "5691",
+          "debt": "0",
+          "profit": "721"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "645",
+          "amount_payed": "9675",
+          "amount_sold": "645",
+          "amount_gained": "8479",
+          "debt": "0",
+          "profit": "-1196"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "339",
+          "amount_payed": "1695",
+          "amount_sold": "339",
+          "amount_gained": "1774",
+          "debt": "0",
+          "profit": "79"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "572",
+          "amount_payed": "4004",
+          "amount_sold": "572",
+          "amount_gained": "4571",
+          "debt": "0",
+          "profit": "567"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "322",
+          "amount_payed": "644",
+          "amount_sold": "209",
+          "amount_gained": "569",
+          "debt": "113",
+          "profit": "-75"
+        }
+      ]
+    },
+    {
+      "street_name": "Miguel Angel",
+      "amount_bought": "0",
+      "amount_payed": "0",
+      "amount_sold": "0",
+      "amount_gained": "0",
+      "debt": "0",
+      "profit": "0",
+      "data": null
+    },
+    {
+      "street_name": "Nicky Barnes",
+      "amount_bought": "5530",
+      "amount_payed": "38987",
+      "amount_sold": "5530",
+      "amount_gained": "41298",
+      "debt": "0",
+      "profit": "2311",
+      "data": [
+        {
+          "drug_name": "LSD",
+          "amount_bought": "603",
+          "amount_payed": "1809",
+          "amount_sold": "603",
+          "amount_gained": "1492",
+          "debt": "0",
+          "profit": "-317"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "634",
+          "amount_payed": "9510",
+          "amount_sold": "634",
+          "amount_gained": "9161",
+          "debt": "0",
+          "profit": "-349"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "768",
+          "amount_payed": "1536",
+          "amount_sold": "768",
+          "amount_gained": "1336",
+          "debt": "0",
+          "profit": "-200"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "453",
+          "amount_payed": "2718",
+          "amount_sold": "453",
+          "amount_gained": "3288",
+          "debt": "0",
+          "profit": "570"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "517",
+          "amount_payed": "2585",
+          "amount_sold": "517",
+          "amount_gained": "2230",
+          "debt": "0",
+          "profit": "-355"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "690",
+          "amount_payed": "8280",
+          "amount_sold": "690",
+          "amount_gained": "8494",
+          "debt": "0",
+          "profit": "214"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "727",
+          "amount_payed": "2908",
+          "amount_sold": "727",
+          "amount_gained": "3257",
+          "debt": "0",
+          "profit": "349"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "455",
+          "amount_payed": "4550",
+          "amount_sold": "455",
+          "amount_gained": "5871",
+          "debt": "0",
+          "profit": "1321"
+        },
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "373",
+          "amount_payed": "2611",
+          "amount_sold": "373",
+          "amount_gained": "3084",
+          "debt": "0",
+          "profit": "473"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "310",
+          "amount_payed": "2480",
+          "amount_sold": "310",
+          "amount_gained": "3085",
+          "debt": "0",
+          "profit": "605"
+        }
+      ]
+    },
+    {
+      "street_name": "Pablo Escobar",
+      "amount_bought": "8068",
+      "amount_payed": "58336",
+      "amount_sold": "8068",
+      "amount_gained": "61862",
+      "debt": "0",
+      "profit": "3526",
+      "data": [
+        {
+          "drug_name": "Methamphetamine",
+          "amount_bought": "598",
+          "amount_payed": "4186",
+          "amount_sold": "598",
+          "amount_gained": "5105",
+          "debt": "0",
+          "profit": "919"
+        },
+        {
+          "drug_name": "PCP (Angel Dust)",
+          "amount_bought": "821",
+          "amount_payed": "4926",
+          "amount_sold": "821",
+          "amount_gained": "5901",
+          "debt": "0",
+          "profit": "975"
+        },
+        {
+          "drug_name": "Heroin",
+          "amount_bought": "1068",
+          "amount_payed": "8544",
+          "amount_sold": "1068",
+          "amount_gained": "9322",
+          "debt": "0",
+          "profit": "778"
+        },
+        {
+          "drug_name": "Crack Cocaine",
+          "amount_bought": "981",
+          "amount_payed": "11772",
+          "amount_sold": "981",
+          "amount_gained": "10234",
+          "debt": "0",
+          "profit": "-1538"
+        },
+        {
+          "drug_name": "Ketamine",
+          "amount_bought": "973",
+          "amount_payed": "3892",
+          "amount_sold": "973",
+          "amount_gained": "4227",
+          "debt": "0",
+          "profit": "335"
+        },
+        {
+          "drug_name": "Psilocybin Mushrooms",
+          "amount_bought": "640",
+          "amount_payed": "9600",
+          "amount_sold": "640",
+          "amount_gained": "11158",
+          "debt": "0",
+          "profit": "1558"
+        },
+        {
+          "drug_name": "MDMA (Ecstasy)",
+          "amount_bought": "954",
+          "amount_payed": "1908",
+          "amount_sold": "954",
+          "amount_gained": "1928",
+          "debt": "0",
+          "profit": "20"
+        },
+        {
+          "drug_name": "Marijuana",
+          "amount_bought": "838",
+          "amount_payed": "4190",
+          "amount_sold": "838",
+          "amount_gained": "4665",
+          "debt": "0",
+          "profit": "475"
+        },
+        {
+          "drug_name": "LSD",
+          "amount_bought": "376",
+          "amount_payed": "1128",
+          "amount_sold": "376",
+          "amount_gained": "1341",
+          "debt": "0",
+          "profit": "213"
+        },
+        {
+          "drug_name": "Cocaine",
+          "amount_bought": "819",
+          "amount_payed": "8190",
+          "amount_sold": "819",
+          "amount_gained": "7981",
+          "debt": "0",
+          "profit": "-209"
+        }
+      ]
+    }
+  ]
+}

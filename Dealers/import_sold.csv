@@ -1,0 +1,35 @@
+date_sold, drug_name, dealer_name, teritorium_city, teritorium_district, amount_sold, price
+2024-04-01,Methamphetamine,El Chapo,Culiacán,Los Pinos,290,2478
+2024-04-01,Cocaine,El Chapo,Culiacán,Los Pinos,224,113
+2024-04-01,Crack Cocaine,El Chapo,Culiacán,Los Pinos,302,812
+2024-04-01,MDMA (Ecstasy),El Chapo,Culiacán,Los Pinos,94,821
+2024-04-01,LSD,El Chapo,Medellín,La Candelaria,52,464
+2024-04-01,Marijuana,El Chapo,Medellín,La Candelaria,300,1402
+2024-04-01,PCP (Angel Dust),El Chapo,Medellín,La Candelaria,327,302
+2024-04-01,Ketamine,Pablo Escobar,Medellín,La Candelaria,215,1377
+2024-04-01,Marijuana,Pablo Escobar,Medellín,La Candelaria,255,908
+2024-04-01,MDMA (Ecstasy),Pablo Escobar,Medellín,Santa Cruz,25,1063
+2024-04-01,Heroin,Pablo Escobar,Medellín,Santa Cruz,94,628
+2024-04-01,Methamphetamine,Pablo Escobar,Medellín,Santa Cruz,109,114
+2024-04-01,LSD,Griselda Blanco,Medellín,Santa Cruz,270,561
+2024-04-01,Crack Cocaine,Griselda Blanco,Medellín,Santa Cruz,114,455
+2024-04-01,PCP (Angel Dust),Griselda Blanco,Guadalajara,Chapalita,229,1230
+2024-04-01,MDMA (Ecstasy),Griselda Blanco,Guadalajara,Chapalita,44,969
+2024-04-01,Ketamine,Griselda Blanco,Guadalajara,Chapalita,101,78
+2024-04-01,Psilocybin Mushrooms,Griselda Blanco,Guadalajara,Chapalita,174,641
+2024-04-01,Psilocybin Mushrooms,Frank Lucas,Tijuana,Zona Norte,280,3436
+2024-04-01,Crack Cocaine,Frank Lucas,Tijuana,Zona Norte,326,345
+2024-04-01,PCP (Angel Dust),Frank Lucas,Tijuana,Zona Norte,63,420
+2024-04-01,Heroin,Frank Lucas,Tijuana,Zona Norte,50,649
+2024-04-01,Heroin,George Jung Beach,Tijuana,Zona Norte,273,54
+2024-04-01,Marijuana,George Jung Beach,Tijuana,Zona Norte,313,1332
+2024-04-01,Psilocybin Mushrooms,George Jung Beach,Juárez,Anapra,166,562
+2024-04-01,MDMA (Ecstasy),George Jung Beach,Juárez,Anapra,219,1085
+2024-04-01,Cocaine,George Jung Beach,Juárez,Anapra,74,390
+2024-04-01,Crack Cocaine,George Jung Beach,Juárez,Anapra,22,348
+2024-04-01,PCP (Angel Dust),Felix Mitchell,Cancún,Riviera Cancún,27,1219
+2024-04-01,Heroin,Felix Mitchell,Oaxaca de Juárez,Santa Rosa,290,786
+2024-04-01,Methamphetamine,Nicky Barnes,Oaxaca de Juárez,Santa Rosa,305,543
+2024-04-01,LSD,Nicky Barnes,Acapulco,Diamante,250,470
+2024-04-01,Ketamine,Nicky Barnes,Acapulco,Diamante,21,513
+2024-04-01,Marijuana,Nicky Barnes,Acapulco,Diamante,34,431

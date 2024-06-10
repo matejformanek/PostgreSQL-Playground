@@ -1,0 +1,92 @@
+[
+  {
+    "street_name": "Carlos Lehder",
+    "am_bought": 10377,
+    "am_payed": 74148,
+    "am_sold": 10377,
+    "am_gained": 81066,
+    "debt": 0,
+    "profit": 6918
+  },
+  {
+    "street_name": "El Chapo",
+    "am_bought": 7607,
+    "am_payed": 56277,
+    "am_sold": 7607,
+    "am_gained": 60474,
+    "debt": 0,
+    "profit": 4197
+  },
+  {
+    "street_name": "Felix Mitchell",
+    "am_bought": 6195,
+    "am_payed": 45325,
+    "am_sold": 6050,
+    "am_gained": 44793,
+    "debt": 145,
+    "profit": -532
+  },
+  {
+    "street_name": "Frank Lucas",
+    "am_bought": 9068,
+    "am_payed": 64740,
+    "am_sold": 9068,
+    "am_gained": 68731,
+    "debt": 0,
+    "profit": 3991
+  },
+  {
+    "street_name": "Freeway Ricky Ross",
+    "am_bought": 8930,
+    "am_payed": 66534,
+    "am_sold": 8930,
+    "am_gained": 74329,
+    "debt": 0,
+    "profit": 7795
+  },
+  {
+    "street_name": "George Jung Beach",
+    "am_bought": 7648,
+    "am_payed": 55884,
+    "am_sold": 7614,
+    "am_gained": 58278,
+    "debt": 34,
+    "profit": 2394
+  },
+  {
+    "street_name": "Griselda Blanco",
+    "am_bought": 7862,
+    "am_payed": 58458,
+    "am_sold": 7511,
+    "am_gained": 61731,
+    "debt": 351,
+    "profit": 3273
+  },
+  {
+    "street_name": "Miguel Angel",
+    "am_bought": 0,
+    "am_payed": 0,
+    "am_sold": 0,
+    "am_gained": 0,
+    "debt": 0,
+    "profit": 0
+  },
+  {
+    "street_name": "Nicky Barnes",
+    "am_bought": 5530,
+    "am_payed": 38987,
+    "am_sold": 5530,
+    "am_gained": 41298,
+    "debt": 0,
+    "profit": 2311
+  },
+  {
+    "street_name": "Pablo Escobar",
+    "am_bought": 8068,
+    "am_payed": 58336,
+    "am_sold": 8068,
+    "am_gained": 61862,
+    "debt": 0,
+    "profit": 3526
+  }
+]
